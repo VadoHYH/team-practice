@@ -1,1 +1,1 @@
-document.querySelector(".user-27").textContent="Vado Hsieh";
+document.querySelector(".user-27").textContent="謝曜徽";
